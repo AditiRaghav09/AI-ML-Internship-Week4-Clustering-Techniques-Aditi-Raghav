@@ -1,0 +1,12 @@
+Dataset Used: Iris Dataset
+
+Source: Scikit-learn Built-in Dataset
+
+Description:
+The Iris dataset contains 150 flower samples belonging to three species: Setosa, Versicolor, and Virginica. Each sample includes four numerical features:
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
+
+In this project, the species labels were not used because clustering is an unsupervised learning technique.
